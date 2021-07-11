@@ -13,4 +13,4 @@ Precision: 82.4%
 Recall: 93.4%
 The model has a favors Recall in overall performance so it favors an instance where we consider that the cost of a false negative as high or when we consider predicting failure of a course when in reality the student would pass as very detrimental
 
-Additional information about the dataset and model can be found in the code and slides. 
+Additional information about the dataset and model can be found in the extinsive code notes and slides. 
