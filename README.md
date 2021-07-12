@@ -1,4 +1,4 @@
-# Guild-Forecasting-Modeling-Project
+# Pass-Rate-Forecasting-Modeling-Project
 
 The goal of this project was given a 3 hour time line take the given file and use SQL code necessary to pull the information from the database. Then using Python, predict how likely a course is to be passed. With the extreemly limited time I choose to use a Catboost model becuase of the following paramters
 1. Highly categorical data set
